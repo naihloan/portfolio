@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "venhamon"
   avatar           : "./assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm into building Product."
+  bio              : "Hi there! I'm into building Product. What are you into?"
   location         : # "Somewhere"
   email            :
   links:

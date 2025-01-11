@@ -1,14 +1,15 @@
 ---
 title: "Foo Identity"
+layout: collection
 excerpt: "Foo design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/images/foo-bar-identity.jpg
 sidebar:
   - title: "venhamon"
     image: ./assets/images/bio-photo.png
     image_alt: "pic"
-    text: "Product persona"
+    text: "Product person"
   # - title: "Responsibilities"
     # text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:

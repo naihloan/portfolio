@@ -6,6 +6,10 @@ main:
      url: ./now
    - title: "About"
      url: ./about
+   - title: "Portfolio"
+     url: ._pages/portfolio
+   - title: "Portfolio2"
+     url: ._portfolio/
    - title: "Books"
      url: ./books
    - title: "Quotes"

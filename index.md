@@ -33,15 +33,15 @@ feature_row:
     url: "https://marketplace.newm.io/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/newm-trs.png
+  - image_path: /assets/pics/newm-trs.png
     title: "NEWM TheRecordStore: Collectibles"
     excerpt: "Users couldn't understand how to listen to songs, and purchase them. I launched Version 2.0 of this project with a clean and clear UX flow so that listeners could find new music and buy 150+ collectible items. The upcoming challenge is to build proper success metrics of how users experience the site and how it relates to value in the whole ecosystem."
     url: "https://recordstore.newm.io/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/newm-app.png
+  - image_path: /assets/pics/newm-app.png
     title: "NEWM Mobile App: Listening"
-    excerpt: "There were 2 teams on mobile, one for each OS: Android and iOS. I unified criteria on user journeys, pain points and I overviewed the full UI implementation from a Product QA standpoint so to ensure a smooth UX."
+    excerpt: "There were 2 development teams on mobile, one for each OS: Android and iOS. I unified criteria on user journeys, pain points and I overviewed the full UI implementation from a Product QA standpoint so to ensure a smooth UX."
     url: "https://newm.io/app/"
     btn_label: "Read More"
     btn_class: "btn--inverse"

@@ -12,6 +12,21 @@ sidebar:
     # text: "Product person"
   # - title: "Responsibilities"
     # text: "Reuters try PR stupid commenters should isn't a business model"
+feature_row:
+  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 gallery:
   - url: /assets/images/unsplash-image-4.jpg
     image_path: /assets/images/unsplash-image-4.jpg
@@ -29,6 +44,10 @@ gallery:
 👾 Fun fact: I've researched urban art, and like to learn of User Experience [UX].
 
 🛠️ Here are some of my works, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process and projects.
+
+{% include feature_row %}
+
+{% include feature_row id="row2" %}
 
 Products Launched {#products-launched}
 =================

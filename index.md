@@ -45,14 +45,6 @@ feature_row:
     url: "https://newm.io/app/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-feature_row_projects:
-  - image_path: /assets/pics/newm.png
-    alt: "NEWM Ecosystem"
-    title: "NEWM Ecosystem"
-    excerpt: "There was no release plan strategy. As the 1st full-time product manager, I implemented agile ceremonies, backlog grooming, and follow-ups across more than 5+ teams. Teams gathered with PRDs, fluid communication and a solid timeline."
-    url: "https://newm.io/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
 gallery:
   - url: /assets/images/unsplash-image-4.jpg
     image_path: /assets/images/unsplash-image-4.jpg
@@ -82,8 +74,6 @@ Products Launched {#products-launched}
 
 Hackathons, Projects, Incubation, Pitches, and Documentation {#projects-pitches-documentation}
 ============================================================
-
-{% include feature_row_projects %}
 
 ![Trust Pay @ Think and Dev](/assets/pics/trust-pay.png)
 ![Trust Pay @ Incubator: Brief.assets](/assets/pics/trust-pay-brief.png)

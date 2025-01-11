@@ -28,10 +28,7 @@ gallery:
 
 👾 Fun fact: I've researched urban art, and like to learn of User Experience [UX].
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
 🛠️ Here are some of my works, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process and projects.
-
 
 Products Launched {#products-launched}
 =================
@@ -59,8 +56,9 @@ See More {#see-more}
 
 ![My Strengths and Career Goals](/assets/pics/strengths.png)
 ![My LinkedIn](/assets/pics/linkedin.png)
-![cv](../docs/cv/benji-cv.pdf)
 ![My Resume](/assets/pics/resume.png)
 
-© CCXXV My Portfolio
+# {% include gallery caption="This is a sample gallery to go along with this case study." %}
+
+
 

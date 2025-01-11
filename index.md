@@ -12,11 +12,6 @@ sidebar:
     # text: "Product person"
   # - title: "Responsibilities"
     # text: "Reuters try PR stupid commenters should isn't a business model"
-
-![NEWM TheRecordStore](/assets/pics/newm-trs.png)
-![NEWM Mobile App: Listening](/assets/pics/newm-app.png)
-
-
 feature_row:
   - image_path: /assets/pics/newm.png
     alt: "NEWM Ecosystem"

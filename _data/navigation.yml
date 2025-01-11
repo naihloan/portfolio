@@ -7,9 +7,7 @@ main:
    - title: "About"
      url: ./about
    - title: "Portfolio"
-     url: ._pages/portfolio
-   - title: "Portfolio2"
-     url: ._portfolio/
+     url: ./portfolio
    - title: "Books"
      url: ./books
    - title: "Quotes"

@@ -12,21 +12,32 @@ sidebar:
     # text: "Product person"
   # - title: "Responsibilities"
     # text: "Reuters try PR stupid commenters should isn't a business model"
+
+![NEWM TheRecordStore](/assets/pics/newm-trs.png)
+![NEWM Mobile App: Listening](/assets/pics/newm-app.png)
+
+
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/pics/newm.png
+    alt: "NEWM Ecosystem"
+    title: "NEWM Ecosystem"
+    excerpt: "There was no release plan strategy. As the 1st full-time product manager, I implemented agile ceremonies, backlog grooming, and follow-ups across more than 5+ teams. Teams gathered with PRDs, fluid communication and a solid timeline."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/pics/newm-studio.png
+    alt: "NEWM Studio: Music Distribution"
+    title: "NEWM Studio: Music Distribution"
+    excerpt: "The pain point was that most distribution services keep a percentage of streaming royalties. This was my first initiative launched to enable 100+ musicians, and growing, to share their songs on main streaming platforms while keeping 100% of streaming royalties."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/newm-mrkt.png
+    title: "NEWM Marketplace: Royalties"
+    excerpt: "The internal problem to overcome is that there was no company documented knowledge of what and how to build. I implemented small building cells (of 3 people) between product, design, and development along with Product Requirement Documents (PRDs) to build understanding, agreement, ownership, and proper communication with stakeholders internally to the company and externally."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 gallery:
   - url: /assets/images/unsplash-image-4.jpg
     image_path: /assets/images/unsplash-image-4.jpg
@@ -45,12 +56,13 @@ gallery:
 
 🛠️ Here are some of my works, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process and projects.
 
+Products Launched {#products-launched}
+=================
+
 {% include feature_row %}
 
 {% include feature_row id="row2" %}
 
-Products Launched {#products-launched}
-=================
 
 ![NEWM Ecosystem](/assets/pics/newm.png)
 ![NEWM Studio: Music Distribution](/assets/pics/newm-studio.png)

@@ -33,4 +33,34 @@ gallery:
 Here are some of my works, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process and projects.
 
 
+Products Launched {#products-launched}
+=================
+
+![NEWM Ecosystem](.assets/pics/newm.png)
+![NEWM Studio: Music Distribution](.assets/pics/newm-studio.png)
+![NEWM Marketplace](.assets/pics/newm-mrkt.png)
+![NEWM TheRecordStore](.assets/pics/newm-trs.png)
+![NEWM Mobile App: Listening](.assets/pics/newm-app.png)
+
+Hackathons, Projects, Incubation, Pitches, and Documentation {#projects-pitches-documentation}
+============================================================
+
+![Trust Pay @ Think and Dev](.assets/pics/trust-pay.png)
+![Trust Pay @ Incubator: Brief.assets](.assets/pics/trust-pay-brief.png)
+![Giver @ Pre-Seed Incubator Speezard](.assets/pics/giver-mrkt.png)
+![Giver: 3-Minute Pitch @ ETH Event](.assets/pics/banner.png)
+![Giver: 5-Minute Pitch @ YouTube](.assets/pics/giver-deck.png)
+![Giver: 5-Minute Pitch @ YouTube](.assets/pics/vibrant.png)
+![Colonist Mobile Gaming](.assets/pics/colonist.png)
+![Point of Sale POS @ Alegra\[Web2\]](.assets/pics/alegra.png)
+
+See More {#see-more}
+========
+
+![My Strengths and Career Goals](.assets/pics/strengths.png)
+![My LinkedIn](.assets/pics/linkedin.png)
+![cv](../docs/cv/benji-cv.pdf)
+![My Resume](.assets/pics/resume.png)
+
+© CCXXV My Portfolio
 

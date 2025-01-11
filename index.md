@@ -33,16 +33,24 @@ feature_row:
     url: "https://marketplace.newm.io/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/newm-trs.png)
+  - image_path: /assets/newm-trs.png
     title: "NEWM TheRecordStore: Collectibles"
     excerpt: "Users couldn't understand how to listen to songs, and purchase them. I launched Version 2.0 of this project with a clean and clear UX flow so that listeners could find new music and buy 150+ collectible items. The upcoming challenge is to build proper success metrics of how users experience the site and how it relates to value in the whole ecosystem."
     url: "https://recordstore.newm.io/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/newm-app.png)
+  - image_path: /assets/newm-app.png
     title: "NEWM Mobile App: Listening"
     excerpt: "There were 2 teams on mobile, one for each OS: Android and iOS. I unified criteria on user journeys, pain points and I overviewed the full UI implementation from a Product QA standpoint so to ensure a smooth UX."
     url: "https://newm.io/app/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row_projects:
+  - image_path: /assets/pics/newm.png
+    alt: "NEWM Ecosystem"
+    title: "NEWM Ecosystem"
+    excerpt: "There was no release plan strategy. As the 1st full-time product manager, I implemented agile ceremonies, backlog grooming, and follow-ups across more than 5+ teams. Teams gathered with PRDs, fluid communication and a solid timeline."
+    url: "https://newm.io/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 gallery:
@@ -57,11 +65,11 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-☺️  Hey there! I’m Benji, a Product Manager aiming to build tech products with real impact. My portfolio shows how I’ve delivered results with strategy and collaboration.
-
-👾 Fun fact: I've researched urban art, and like to learn of User Experience [UX].
-
-🛠️ Here are some of my works, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about). Most things here belong to collective efforts. I share results, my thinking process and projects.
+Hi! I’m Benji, a Product Manager.
+My portfolio shows how I’ve delivered results with strategy and collaboration.
+Most things here belong to collective efforts.
+Here are some of my works, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about).
+I share results, my thinking process and projects.
 
 Products Launched {#products-launched}
 =================
@@ -74,6 +82,8 @@ Products Launched {#products-launched}
 
 Hackathons, Projects, Incubation, Pitches, and Documentation {#projects-pitches-documentation}
 ============================================================
+
+{% include feature_row_projects %}
 
 ![Trust Pay @ Think and Dev](/assets/pics/trust-pay.png)
 ![Trust Pay @ Incubator: Brief.assets](/assets/pics/trust-pay-brief.png)

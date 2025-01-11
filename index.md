@@ -17,20 +17,32 @@ feature_row:
     alt: "NEWM Ecosystem"
     title: "NEWM Ecosystem"
     excerpt: "There was no release plan strategy. As the 1st full-time product manager, I implemented agile ceremonies, backlog grooming, and follow-ups across more than 5+ teams. Teams gathered with PRDs, fluid communication and a solid timeline."
-    url: "#test-link"
+    url: "https://newm.io/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/pics/newm-studio.png
     alt: "NEWM Studio: Music Distribution"
     title: "NEWM Studio: Music Distribution"
     excerpt: "The pain point was that most distribution services keep a percentage of streaming royalties. This was my first initiative launched to enable 100+ musicians, and growing, to share their songs on main streaming platforms while keeping 100% of streaming royalties."
-    url: "#test-link"
+    url: "https://newm.studio/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/pics/newm-mrkt.png
     title: "NEWM Marketplace: Royalties"
     excerpt: "The internal problem to overcome is that there was no company documented knowledge of what and how to build. I implemented small building cells (of 3 people) between product, design, and development along with Product Requirement Documents (PRDs) to build understanding, agreement, ownership, and proper communication with stakeholders internally to the company and externally."
-    url: "#test-link"
+    url: "https://marketplace.newm.io/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/newm-trs.png)
+    title: "NEWM TheRecordStore: Collectibles"
+    excerpt: "Users couldn't understand how to listen to songs, and purchase them. I launched Version 2.0 of this project with a clean and clear UX flow so that listeners could find new music and buy 150+ collectible items. The upcoming challenge is to build proper success metrics of how users experience the site and how it relates to value in the whole ecosystem."
+    url: "https://recordstore.newm.io/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/newm-app.png)
+    title: "NEWM Mobile App: Listening"
+    excerpt: "There were 2 teams on mobile, one for each OS: Android and iOS. I unified criteria on user journeys, pain points and I overviewed the full UI implementation from a Product QA standpoint so to ensure a smooth UX."
+    url: "https://newm.io/app/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 gallery:
@@ -59,11 +71,6 @@ Products Launched {#products-launched}
 {% include feature_row id="row2" %}
 
 
-![NEWM Ecosystem](/assets/pics/newm.png)
-![NEWM Studio: Music Distribution](/assets/pics/newm-studio.png)
-![NEWM Marketplace](/assets/pics/newm-mrkt.png)
-![NEWM TheRecordStore](/assets/pics/newm-trs.png)
-![NEWM Mobile App: Listening](/assets/pics/newm-app.png)
 
 Hackathons, Projects, Incubation, Pitches, and Documentation {#projects-pitches-documentation}
 ============================================================

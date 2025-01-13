@@ -111,16 +111,6 @@ feature_row:
     url: "https://ramoneando.com/docs/cv/benji-cv.pdf"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-gallery:
-  - url: /assets/images/unsplash-image-4.jpg
-    image_path: /assets/images/unsplash-image-4.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-image-4.jpg
-    image_path: /assets/images/unsplash-image-4.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-image-4.jpg
-    image_path: /assets/images/unsplash-image-4.jpg
-    alt: "placeholder image 3"
 ---
 
 Hi! I’m Benji, a Product Manager.

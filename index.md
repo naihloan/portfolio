@@ -6,10 +6,10 @@ header:
   image: /assets/pics/banner.png
   teaser: /assets/pics/banner.png
 sidebar:
-  # - title: "venhamon"
-    # image: ./assets/images/bio-photo.png
+   - title: "venhamon"
+     image: ./assets/images/bio-photo.png
     # image_alt: "pic"
-    # text: "Product person"
+     text: "Product person"
   # - title: "Responsibilities"
     # text: "Reuters try PR stupid commenters should isn't a business model"
 feature_row:

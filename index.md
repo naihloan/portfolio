@@ -45,6 +45,72 @@ feature_row:
     url: "https://newm.io/app/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/pics/trust-pay.png
+    title: "Trust Pay @ Think and Dev"
+    excerpt: "In this Web3 hackathon I brought the original idea that was built, to enable an automated administration service so that users can follow their payments and expenses in real-time. We won a clean code documentation prize: 100 dollars."
+    url: "https://github.com/naihloan/hackaton-web3"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/trust-pay-brief.png
+    title: "Trust Pay @ Incubator: Brief"
+    excerpt: "We wanted to drive our project forward, with more Web3 business understanding. We won entry to a Web3 pre-seed incubator with a fee waiver and built an evolving project for B2B2C, so that our users could solve real-life scenarios for a mass user base."
+    url: "https://github.com/naihloan/giver/blob/main/docs/trust-pay--brief.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/giver-mrkt.png
+    title: "Giver @ Pre-Seed Incubator Speezard"
+    excerpt: "We talked with 10+ NGO founders and donors to understand how to generate a loop so that donors would keep donating after campaigns ended, a very Latin America specific issue. In this Web3 pre-seed incubator we built our pitch deck, and re-branded for donations, so that we could engage donors to causes for a lifetime."
+    url: "https://github.com/naihloan/giver"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/banner.png
+    title: "Giver: 3-Minute Pitch @ ETH Event"
+    excerpt: "hy is it hard for Latin America NGOs to keep engagement with their public? We aimed to resolve this and give a more continuous engagement between volunteers and NGOs. We won access to Quadratic funding through this web3 live and in-person event, so that we can engage more people to causes they like."
+    url: "https://youtu.be/0ZllEEaVkq0?t=5203"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/giver-deck.png
+    title: "Giver: 5-Minute Pitch @ YouTube"
+    excerpt: "We need to best understand what do NGOs look like in the Web3 space and how they raise funding: none of them had a reputation system, which can foster trust and more collaboration. In this web3 event in Buenos Aires, we recorded our pitch-deck, to propose that building such a system can engage users at a more personal and sustained way."
+    url: "https://www.youtube.com/watch?v=Dcx3DsDvrno"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/vibrant.png
+    title: "Vibrant @ Stellar Development Foundation [Web3]"
+    excerpt: "Vibrant is based on a solid blockchain that aims for growth in a huge region as Latin America. The aim was to think about how to grow the current use base to a massive audience with a physical card backed up with stablecoins. Feedback: Use metrics."
+    url: "https://docs.google.com/document/d/1ygYA8fO-ZA_NEzBkLzPoG_tR7nwmIj_Q/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/colonist.png
+    title: "Colonist Mobile Gaming"
+    excerpt: "The challenge was to improve the current UX flow by considering user journeys and user education through the UI. I aimed to give proper steps and education nudges in a non-invase way. Feedback: Use more standardized metrics to measure success."
+    url: "https://docs.google.com/document/d/1tJtLP1rMluoYfjqvYuyJo90zgD811KbqSY43Qj_azM0/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/alegra.png
+    title: "Point of Sale POS @ Alegra\[Web2\]"
+    excerpt: "The aim was to plan a strategy for giving value to users from the current implementation. I chose a POS because it is the same for a wide region in LatAm, educating and simplifying the user journey to avoid reading outside of the app in a FAQ page."
+    url: "https://docs.google.com/document/d/1qe4MEC31eJdNm-yosAH_QAoG6NvtATbmNh8UduGztxI/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/strengths.png
+    title: "My Strengths and Career Goals"
+    excerpt: "I don't want to stay stagnant as an Individual Contributor (IC). I want to see up to 2030 if I can lead other people in a Head of Product or Product Lead roles. My current Goals to develop skills are around: data, strategy, culture."
+    url: "ramoneando.com/docs/mnookin-2pager/benji--mnookin-product-manager.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/linkedin.png
+    title: "My LinkedIn"
+    excerpt: "I'm a bit of a social media recluse, but for work I learn and connect a lot. Here's my work social media at LinkedIn: to connect and build with amazing people out there. It's been an amazing ride so far. Hello World. And Thanks!"
+    url: "https://www.linkedin.com/in/bj-pm/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/pics/resume.png
+    title: "My Resume"
+    excerpt: "Seeking a Product Manager role at an early stage startup, with focus on design and user experience (UX), on industries like social impact, compliance and media."
+    url: "https://ramoneando.com/docs/cv/benji-cv.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 gallery:
   - url: /assets/images/unsplash-image-4.jpg
     image_path: /assets/images/unsplash-image-4.jpg
@@ -71,27 +137,6 @@ Products Launched {#products-launched}
 {% include feature_row id="row2" %}
 
 
-
-Hackathons, Projects, Incubation, Pitches, and Documentation {#projects-pitches-documentation}
-============================================================
-
-![Trust Pay @ Think and Dev](/assets/pics/trust-pay.png)
-![Trust Pay @ Incubator: Brief.assets](/assets/pics/trust-pay-brief.png)
-![Giver @ Pre-Seed Incubator Speezard](/assets/pics/giver-mrkt.png)
-![Giver: 3-Minute Pitch @ ETH Event](/assets/pics/banner.png)
-![Giver: 5-Minute Pitch @ YouTube](/assets/pics/giver-deck.png)
-![Giver: 5-Minute Pitch @ YouTube](/assets/pics/vibrant.png)
-![Colonist Mobile Gaming](/assets/pics/colonist.png)
-![Point of Sale POS @ Alegra\[Web2\]](/assets/pics/alegra.png)
-
-See More {#see-more}
-========
-
-![My Strengths and Career Goals](/assets/pics/strengths.png)
-![My LinkedIn](/assets/pics/linkedin.png)
-![My Resume](/assets/pics/resume.png)
-
-# {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 
 
